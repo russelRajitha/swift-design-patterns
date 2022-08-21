@@ -9,6 +9,8 @@ target 'SwiftLearn' do
   pod 'RxSwift', '6.5.0'
   pod 'RxCocoa', '6.5.0'
   pod 'RxDataSources', '~> 5.0'
+  pod "AutoKeyboardScrollView", '~> 1.5'
+
 
   target 'SwiftLearnTests' do
     inherit! :search_paths

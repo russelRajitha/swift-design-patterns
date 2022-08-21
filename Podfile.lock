@@ -1,4 +1,5 @@
 PODS:
+  - AutoKeyboardScrollView (1.5.2)
   - Differentiator (5.0.0)
   - RxCocoa (6.5.0):
     - RxRelay (= 6.5.0)
@@ -12,12 +13,14 @@ PODS:
   - RxSwift (6.5.0)
 
 DEPENDENCIES:
+  - AutoKeyboardScrollView (~> 1.5)
   - RxCocoa (= 6.5.0)
   - RxDataSources (~> 5.0)
   - RxSwift (= 6.5.0)
 
 SPEC REPOS:
   trunk:
+    - AutoKeyboardScrollView
     - Differentiator
     - RxCocoa
     - RxDataSources
@@ -25,12 +28,13 @@ SPEC REPOS:
     - RxSwift
 
 SPEC CHECKSUMS:
+  AutoKeyboardScrollView: 8558b833a0f666970a6c1612aa4ad747668e996c
   Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
   RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
   RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
   RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
   RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
 
-PODFILE CHECKSUM: e3ad6d5fc4f6ea2ab178b68becdde06a9758ae2e
+PODFILE CHECKSUM: 180fb13238563ad54dcecc1fc7244fd2fd306420
 
 COCOAPODS: 1.11.3
